@@ -1,0 +1,11 @@
+kind: Secret
+apiVersion: v1
+metadata:
+  name: logging-loki-s3
+  namespace: openshift-logging
+data:
+  access_key_id: 
+  access_key_secret: 
+  bucketnames: 
+  endpoint: 
+  region: 
